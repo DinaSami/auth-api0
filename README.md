@@ -4,15 +4,15 @@
 
 ### Heroku applications
 
-[server-deploy-main]()
+[server-deploy-main](https://auth-api-new.herokuapp.com/)
 
 ### Github actions
 
-[actions]()
+[actions](https://github.com/DinaSami/auth-api0/actions/new)
 
 ### pull request
 
-[PR]()
+[PR](https://github.com/DinaSami/auth-api0/pulls)
 
 ## Drawings
 
